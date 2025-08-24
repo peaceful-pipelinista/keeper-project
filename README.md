@@ -4,8 +4,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v3.3.2-skyblue?logo=tailwind-css&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/Netlify-%20-brightgreen?logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-%20-black?logo=vercel&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%20-black?logo=github&logoColor=white)
-
 
 A modern and simple **note-taking web application** built with **React.js**.  
 Users can add and delete notes in a clean and responsive interface 🌼.
