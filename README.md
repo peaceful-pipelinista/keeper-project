@@ -12,8 +12,8 @@ Users can add and delete notes in a clean and responsive interface 🌼.
 
 ## 🚀 Live Demo
 
-- 🌱 Netlify Deployment: [View Here]()  
-- ☁️ Vercel Deployment: [View Here]()  
+- 🌱 Netlify Deployment: [View Here](keeper-project-react-assignment.netlify.app)  
+- ☁️ Vercel Deployment: [View Here](https://keeper-project-iota.vercel.app/)  
 
 ---
 
